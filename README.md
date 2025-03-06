@@ -91,9 +91,11 @@ ggplot(weather_data, aes(x = date, y = temperature)) + geom_line() + theme_minim
 ## **Conclusion 🎯**
 This project demonstrates an end-to-end cloud-integrated pipeline for weather data analytics. By leveraging AWS services and R programming, it enables real-time data collection, automated storage, and insightful visualization.
 
-## **OUTPUT** (example)
+## **OUTPUT** 
 {"timestamp":"2025-03-06T07:11:49.027049","temperature":20.9,"humidity":83,"location":"Bangalore"}
+
 {"timestamp":"2025-03-06T07:11:49.027049","temperature":20.9,"humidity":83,"location":"Bangalore"}
+
 {"timestamp":"2025-03-06T07:11:49.027049","temperature":20.9,"humidity":83,"location":"Bangalore"}
 
 
