@@ -77,10 +77,14 @@ ggplot(weather_data, aes(x = date, y = temperature)) + geom_line() + theme_minim
 
 ## **Screenshots 📸**
 🖼️ *Include the following:*  
-✅ AWS Lambda function setup  
+✅ AWS Lambda function setup 
+![AWS Lambda](Screenshots/Lambda.jpg) 
 ✅ API Gateway configuration  
+![API Gateway](Screenshots/API_gateway.jpg)
 ✅ Windows Task Scheduler execution logs  
+![WINDOWS task scheduling](Screenshots/WINDOWS_Task_scheduler.jpg) 
 ✅ S3 bucket with stored JSON files  
+![FINAL LOGS INTO S3 BUCKET](Screenshots/FINAL_S3_bucket_logs_every5mins.jpg) 
 
 ---
 
